@@ -3,6 +3,8 @@
 #include <iostream>
 #include <string>
 #include <sstream>
+#include <exception>
+#include <stdexcept>
 
 namespace MyCar
 {
